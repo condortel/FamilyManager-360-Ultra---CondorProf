@@ -1,0 +1,7 @@
+{
+  "name": "FamilyManager 360 Ultra - CondorProf",
+  "description": "L'ecosistema definitivo per la gestione familiare intelligente, guidato dall'assistente CondorProf.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
